@@ -165,4 +165,6 @@ launch.jason/
 
 # My Ignores
 
+images/
+data/
 dataset/
